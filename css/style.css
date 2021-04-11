@@ -1,0 +1,55 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Lobster&display=swap');
+
+*{
+    margin: 0;
+
+}
+body{
+    
+    
+    background: #c5c8be;
+
+    
+}
+#result{
+    margin: 75px;
+    /* font-family: 'Alfa Slab One', cursive; */
+    font-family: 'Lobster', cursive;
+    /* font-weight: 900; */
+    color: #000000bd;
+    font-size: 94px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.flex{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.flex div{
+    margin: 20px;
+    width: 500px;
+    min-width: 200px;
+    /* background-color: violet; */
+}
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    /* font-family: 'Alfa Slab One', cursive; */
+    font-size: 35px;
+    color: #6b1b10bd;
+    text-transform: capitalize;
+}
